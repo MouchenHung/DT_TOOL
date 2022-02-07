@@ -23,9 +23,9 @@ Device tree tool for zephyr.
   - Linux: support
   - Windows: not support
 - Config file(config.txt)
-      1. DTS_FILE_PATH    	: */Zephyr.dts
-      2. DT_UNFIXED_FILE_PATH	: */devicetree_unfixed.h
-      3. YAML_SEARCH_PATH	: */dts/bindings
+  - DTS_FILE_PATH    	: */Zephyr.dts
+  - DT_UNFIXED_FILE_PATH	: */devicetree_unfixed.h
+  - YAML_SEARCH_PATH	: */dts/bindings
 
     Note: Given path should be absolute path!
 
