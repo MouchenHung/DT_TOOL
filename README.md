@@ -27,7 +27,7 @@ Device tree tool for zephyr.
   - DT_UNFIXED_FILE_PATH	: */devicetree_unfixed.h
   - YAML_SEARCH_PATH	: */dts/bindings
 
-    Note: Given path should be absolute path!
+  Note: Given path should be absolute path!
 
 ### Usage:
 Standard command format: <code_name> <command> <arg1> <arg2> ...
