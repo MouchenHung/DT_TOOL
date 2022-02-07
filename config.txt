@@ -1,0 +1,11 @@
+/* CONFIG FILE OF dt_read.py */
+// ------------------------------------ Do not modify content below ------------------------------------
+//* Note:  1. Space or '\n' are support!
+//	   2. Do not change "VERSION", cause the parameter needs to be validated in code.
+//         3. Please modify 
+// ------------------------------------ Do not modify content above ------------------------------------
+
+VERSION = "1.1"
+DTS_FILE_PATH = "/home/mouchen/Documents/BIC/YV3_5/v0_Zephyr/aspeed_zephyr_1_3/zephyr/build/zephyr/zephyr.dts"
+DT_UNFIXED_FILE_PATH = "/home/mouchen/Documents/BIC/YV3_5/v0_Zephyr/aspeed_zephyr_1_3/zephyr/build/zephyr/include/generated/devicetree_unfixed.h"
+YAML_SEARCH_PATH = "/home/mouchen/Documents/BIC/YV3_5/v0_Zephyr/aspeed_zephyr_1_3/zephyr/dts/bindings"
