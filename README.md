@@ -66,5 +66,6 @@ Standard command format: <code_name> <command> <arg1> <arg2> ...
     4. Color print only support on Linux.
     5. Keyword means one string include in target string, ex: "i2c@" in "i2c@7e7b0080".
 - Demo video: https://drive.google.com/file/d/1O06qEt57HWk0j_NnVm9UpIB6rx9UJFHW/view?usp=sharing
-- Command 0 demo: \n
+- Command 0 demo:
+
 ![image info](./DT_READ_TOOL/command0_0.png)
